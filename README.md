@@ -1,4 +1,4 @@
-]Hiring-Process-Analytics
+Hiring-Process-Analytics
 Analyzing previous hiring dataset of an MNC to observe trends and drawing insights out of it useful for hiring department. The dataset of the company has the details about people who registered for a particular post in a department of this company. Data Analytics Tasks: After downloading the dataset, use Excel to answer the below questions: A. Hiring Analysis: The hiring process involves bringing new individuals into the organization for various roles.
 
 Your Task: Determine the gender distribution of hires. How many males and females have been hired by the company?
